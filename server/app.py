@@ -35,6 +35,12 @@ def get_restaurant(id):
         return jsonify({"error": "Restaurant not found"}), 404
     return jsonify(restaurant.to_dict()), 200
 
+@app.route("/restaurants/<int:id>", methods=["DELETE"])
+def delete_restaurant(id):
+    restaurant = db.session.get(Restaurant, id)
+
+    return {}, 204
+
 
 
 if __name__ == "__main__":
