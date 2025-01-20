@@ -135,8 +135,8 @@ Copy
 }
 ***
 # Validation Error:
--json
-Copy
+- json
+- Copy
 ***
 {
   "errors": ["Price must be between 1 and 30"]
