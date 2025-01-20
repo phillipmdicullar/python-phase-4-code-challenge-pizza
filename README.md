@@ -2,6 +2,7 @@
 
 This project demonstrates building a full-stack web application using a Flask API backend and a React frontend to manage Pizza Restaurants.
 
+![piizza](https://github.com/user-attachments/assets/f74d1a89-2b17-48ce-b398-69035c4d8f99)
 # Overview
 This project implements an API for managing restaurants, pizzas, and their relationships. The app allows users to:
 
