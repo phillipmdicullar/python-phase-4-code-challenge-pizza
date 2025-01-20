@@ -20,13 +20,13 @@ This project implements an API for managing restaurants, pizzas, and their relat
 ## Backend
 ### Clone the repository:
 
-**git clone <repository-url>**
-**cd code-challenge**
+- **git clone <repository-url>**
+- **cd code-challenge**
 
 ### Install dependencies:
 
-**pipenv install**
-**pipenv shell**
+- **pipenv install**
+- **pipenv shell**
 
 ### Set up the database:
 
